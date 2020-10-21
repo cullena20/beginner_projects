@@ -110,4 +110,4 @@ my_machine = CoffeeMachine(400, 540, 120, 9, 550)
 
 my_machine.run_machine()
 
-# my main first project. followed JetBrains Academymg
+# my main first project. followed JetBrains Academy
